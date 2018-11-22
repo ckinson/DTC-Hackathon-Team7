@@ -2,7 +2,7 @@
 
 Hackathon Info - https://github.com/ckinson/Autism-Project/blob/master/Hackathon_Autism_Project.md
 
-##Members
+## Members
 
 * Michael Dono
 * Ben Harris
